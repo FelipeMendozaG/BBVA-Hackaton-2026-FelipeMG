@@ -1,0 +1,19 @@
+{
+  "candidate": "felipe188.mendoza@gmail.com",
+  "candidate_name": "Felipe Mendoza",
+  "models_and_tools": [
+    {
+      "tool": "Antigravity IDE",
+      "model": "Gemini 3.8 Flash (Medium)"
+    }
+  ],
+  "evaluated_file": "candidate_strategy.py",
+  "generated_artifacts": [
+    "generated_artifacts/verify_benchmarks.py"
+  ],
+  "conversation_files": [
+    "ai_conversations/session-01.md"
+  ],
+  "redactions": [],
+  "declaration": "He revisado, verificado y asumo la total responsabilidad de la entrega final y de todas las decisiones de diseno adoptadas."
+}
